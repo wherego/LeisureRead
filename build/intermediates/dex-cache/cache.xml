@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\AndroidDemo\LeisureReading\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_9dd7cc44841717764f0b57481c1289934d2d0b31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidDemo\LeisureReading\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_7b5392ca5ed26643cfd2d2f54eb5ae9d0dd14a8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidDemo\LeisureReading\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_734ca97b55bc167cd33a7e7d9e281434baf0e868.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidDemo\LeisureReading\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_4bba3edbcbc10315b9dfa0d6ed11b77722800c6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidDemo\LeisureReading\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_bd67df06e84fb42e006ac778dbaeaf1e37328143.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\llj\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_a13421a785f8880ef85a45ea61fb9817ac82120f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidDemo\LeisureReading\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_776f0e0db6f39a33cbf1c567120ba920087df7ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidDemo\LeisureReading\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_cedac6042aa90b082bd29d62c926196e9e2637af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_93433635f9da24c9ee7e0162c6a612eb079b4aeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidDemo\LeisureReading\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_bdbb16c20ffc7d8897e95546924065e5c2e28751.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidDemo\LeisureReading\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_334e620c2f9651d8a3e01d0aa4832a947508e301.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidDemo\LeisureReading\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.4.0_e16b4c31161ca39d72aac1f4ae15339bc0e5a261.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidDemo\LeisureReading\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_c893f04611f13197c4621c1d3d3930e7c2c9cf2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidDemo\LeisureReading\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_9bd2d2fd92463076c6eff6616c28f6c2558fa5e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidDemo\LeisureReading\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_f97f1cc9d4d65591783ededd11b3c5899792f8b9.jar" />
+    </item>
+
+</items>

@@ -11,11 +11,11 @@ import java.util.List;
 
 public class MainPagerAdapter extends FragmentPagerAdapter {
 
-  private String[] mTitles={"知乎日报","果壳精选","豆瓣一刻"};
   private List<Fragment> mainList;
-  public MainPagerAdapter(FragmentManager fm,List<Fragment> mainList) {
+
+  public MainPagerAdapter(FragmentManager fm, List<Fragment> mainList) {
     super(fm);
-    this.mainList=mainList;
+    this.mainList = mainList;
   }
 
   @Override
@@ -26,5 +26,18 @@ public class MainPagerAdapter extends FragmentPagerAdapter {
   @Override
   public int getCount() {
     return mainList.size();
+  }
+
+  @Override
+  public CharSequence getPageTitle(int position) {
+    switch (position) {
+      case 0:
+        return "知乎日报";
+      case 1:
+        return "果壳精选";
+      case 2:
+        return "豆瓣一刻";
+    }
+    return null;
   }
 }

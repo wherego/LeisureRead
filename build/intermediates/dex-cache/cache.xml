@@ -3,30 +3,48 @@
 
     <item
         is-multidex="false"
-        jar="E:\AndroidDemo\LeisureReading\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jar="E:\AndroidDemo\LeisureReading\app\build\intermediates\exploded-aar\io.reactivex.rxjava2\rxandroid\2.0.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
-        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
-        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_9dd7cc44841717764f0b57481c1289934d2d0b31.jar" />
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\io.reactivex.rxjava2-rxandroid-2.0.1_0f5046b0a9c6e90c4d086fed828d035f7412784f.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="E:\AndroidDemo\LeisureReading\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jar="C:\Users\llj\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
-        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
-        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_7b5392ca5ed26643cfd2d2f54eb5ae9d0dd14a8c.jar" />
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_831bb4bb5b0610de1b54281ae0cfb2560df4f1c7.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="E:\AndroidDemo\LeisureReading\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jar="C:\Users\llj\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
-        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
-        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_734ca97b55bc167cd33a7e7d9e281434baf0e868.jar" />
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\reactive-streams-1.0.0_b5f1f1ca8ed507c50e1296ee162e9e5aa7b90b1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\llj\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\glide-3.7.0_fac65e60c05b965b5f4b63638018ef3ae35e420c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\llj\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\okio-1.11.0_c1e0f9bc843e99c9da32614d8d4bd8e30b459556.jar" />
     </item>
     <item
         is-multidex="false"
@@ -39,30 +57,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="E:\AndroidDemo\LeisureReading\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jar="C:\Users\llj\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
-        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
-        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_bd67df06e84fb42e006ac778dbaeaf1e37328143.jar" />
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\gson-2.7_3c663614c4f1276bd542469fe9f963491d7bfb46.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\llj\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jar="C:\Users\llj\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.0.6\b0100ee9ceee5d1861371aefc814cee3e78ed23b\rxjava-2.0.6.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
-        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
-        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_a13421a785f8880ef85a45ea61fb9817ac82120f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\AndroidDemo\LeisureReading\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
-        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_776f0e0db6f39a33cbf1c567120ba920087df7ea.jar" />
+        sha1="b0100ee9ceee5d1861371aefc814cee3e78ed23b">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\rxjava-2.0.6_4e22cf4ff9febfa7d3e6d1a32d97d0ad36501dd0.jar" />
     </item>
     <item
         is-multidex="false"
@@ -72,15 +81,6 @@
         revision="25.0.1"
         sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
         <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_cedac6042aa90b082bd29d62c926196e9e2637af.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
-        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_93433635f9da24c9ee7e0162c6a612eb079b4aeb.jar" />
     </item>
     <item
         is-multidex="false"
@@ -102,6 +102,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="E:\AndroidDemo\LeisureReading\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_c893f04611f13197c4621c1d3d3930e7c2c9cf2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="E:\AndroidDemo\LeisureReading\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -111,12 +120,120 @@
     </item>
     <item
         is-multidex="false"
-        jar="E:\AndroidDemo\LeisureReading\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jar="C:\Users\llj\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava2\2.2.0\3ee0e527143abbe130ddba4c1fa6c4be5d66ed5c\adapter-rxjava2-2.2.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
-        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
-        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_c893f04611f13197c4621c1d3d3930e7c2c9cf2c.jar" />
+        sha1="3ee0e527143abbe130ddba4c1fa6c4be5d66ed5c">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\adapter-rxjava2-2.2.0_8906710be65e67be75a6246a9356ef230e050b64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidDemo\LeisureReading\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_9dd7cc44841717764f0b57481c1289934d2d0b31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\llj\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_6fd6a0640b117a854d2cf6e3c75d666eb10fb581.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidDemo\LeisureReading\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_7b5392ca5ed26643cfd2d2f54eb5ae9d0dd14a8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidDemo\LeisureReading\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_734ca97b55bc167cd33a7e7d9e281434baf0e868.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidDemo\LeisureReading\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_bd67df06e84fb42e006ac778dbaeaf1e37328143.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\llj\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_a13421a785f8880ef85a45ea61fb9817ac82120f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidDemo\LeisureReading\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.1.1_7c9351793f951c297269531be88735e5ad705f72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidDemo\LeisureReading\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_776f0e0db6f39a33cbf1c567120ba920087df7ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_93433635f9da24c9ee7e0162c6a612eb079b4aeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidDemo\LeisureReading\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.1.0_e9c768d57668d0fedbcc6d2dc83b472491226e5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\llj\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.2.0\41e67dba73c3347e4503761642c39d0e06ca1f2\retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\retrofit-2.2.0_84c1320c4f1bfb2da95ff7bbfa13d97027d45fe3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\llj\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="E:\AndroidDemo\LeisureReading\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_2b166fff0789997c705ed1542f040d717893dfd0.jar" />
     </item>
     <item
         is-multidex="false"
